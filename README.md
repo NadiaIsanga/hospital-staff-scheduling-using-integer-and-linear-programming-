@@ -11,7 +11,7 @@ Developed a mathematical optimization model to improve hospital staffing using L
 Modeled cost-efficient schedules that respect shift coverage, contractual hours, and skill qualifications.  
 Implemented and solved the model using Python’s PuLP library, producing feasible, real-world staffing solutions.
 
----
+
 
 ## 🛠️ Skills Used
 
@@ -19,10 +19,9 @@ Implemented and solved the model using Python’s PuLP library, producing feasib
 - **Integer Programming (IP)**
 - **Python (PuLP, Pandas, Matplotlib)**
   
----
 
 
----
+
 
 ## 🧠 Model Highlights
 
@@ -34,7 +33,7 @@ Implemented and solved the model using Python’s PuLP library, producing feasib
   - Qualification matching for roles
 - **Solving Environment**: PuLP with CBC solver
 
----
+
 
 ## 📊 Visual Insights
 
@@ -42,7 +41,7 @@ Implemented and solved the model using Python’s PuLP library, producing feasib
 - **Dual-Axis Charts**: Compare cost per hour and required hours for each role.
 - **Iteration Logs**: Track solution feasibility across added constraints.
 
----
+
 
 ## 🚀 How to Run
 
@@ -55,7 +54,7 @@ Implemented and solved the model using Python’s PuLP library, producing feasib
 
 3. Run each cell to define variables, constraints, and solve the optimization problem.
 
----
+
 
 
 ---
