@@ -3,7 +3,7 @@
 
 This project applies linear and integer programming to optimize hospital staff scheduling by minimizing costs while ensuring adequate coverage across morning, evening, and night shifts. The model accounts for full-time and part-time contracts, staff qualifications, and shift constraints.
 
----
+
 
 ## 📌 Summary
 
