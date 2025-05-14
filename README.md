@@ -57,8 +57,6 @@ Implemented and solved the model using Python’s PuLP library, producing feasib
 
 
 
----
-
 ## 📷 Preview
 
 ![image](https://github.com/user-attachments/assets/75d790f2-d69c-4785-a9f5-39d8dd1f5eec)
